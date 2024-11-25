@@ -43,6 +43,13 @@ Frontend Engineer with **1+ years** of expertise in building responsive websites
 * udemy.com, egghead.io
 * Volodymyr Dahl East Ukrainian National University – Bachelor
 
+## Code Example
+```
+function removeFalsyValues(arr) {
+  return arr.filter((el) => Boolean(el));
+}
+```
+
 ## Languages
 * English - Intermediate
 * Ukrainian - Native
