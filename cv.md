@@ -43,6 +43,10 @@ Frontend Engineer with **1+ years** of expertise in building responsive websites
 * udemy.com, egghead.io
 * Volodymyr Dahl East Ukrainian National University – Bachelor
 
+## Languages
+* English - Intermediate
+* Ukrainian - Native
+
 ## Pet Projects
 #### [Gallows game (JS only): Hangman](https://rolling-scopes-school.github.io/irynaserhiienko-JSFE2023Q4/hangman/)
 
